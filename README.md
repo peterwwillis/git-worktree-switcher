@@ -52,6 +52,33 @@ $ gw
 
 3. Choose a command from the menu (switch, add, convert, remove, list).
 
+
+## Screenshots
+
+Main menu:
+
+![Git Worktree wrapper menu](docs/screenshots/menu.png)
+
+Switching worktrees (multiple entries):
+
+![Worktree switch menu with multiple branches](docs/screenshots/switch-multiple.png)
+
+Adding a worktree:
+
+![Add a new worktree form](docs/screenshots/add-worktree.png)
+
+Converting a repository:
+
+![Convert repository confirmation](docs/screenshots/convert-repo.png)
+
+Listing worktrees with branches:
+
+![Worktree list dialog with branch labels](docs/screenshots/list-with-branches.png)
+
+Removing a worktree:
+
+![Remove worktree confirmation](docs/screenshots/remove-worktree.png)
+
 ## Configuration
 
 You can set these environment variables:
